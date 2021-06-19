@@ -1,5 +1,9 @@
 # Box Challenge
 
+I had help from Lee to do this
+
+Other than that no real chalenges
+
 ![laptop mockup of the box challenge assignment](./mockups/laptop-1024x768.png)
 
 ## Background
